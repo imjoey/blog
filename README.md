@@ -1,2 +1,3 @@
 # blog
-Github Issue Blog
+
+My Blog
